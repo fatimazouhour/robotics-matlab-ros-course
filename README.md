@@ -6,7 +6,7 @@ path planning, and ROS with MATLAB.
 
 | Folder | Sheet | Content |
 |---|---|---|
-| [`Basic_models`](Basic_models) | E1 | Kinematic models of mobile robots: unicycle, bicycle, differential drive |
+| [`basic_models`](basic_models) | E1 | Kinematic models of mobile robots: unicycle, bicycle, differential drive |
 | [`definition_and_kinematics`](definition_and_kinematics) | E2 | Homogeneous transforms, ETS, rigidBodyTree, DH parameters, forward and inverse kinematics |
 | [`Jacobian`](Jacobian) | E3 | Geometric Jacobian, singularities, velocity ellipsoids, non-square Jacobian |
 | [`dynamics_and_control`](dynamics_and_control) | E4 | Inverse/forward dynamics, UR20 model, PI joint control, joint-space and Cartesian trajectories |
