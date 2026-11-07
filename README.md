@@ -28,4 +28,4 @@ Some folders have a readme explaining them, for others , I dont thinks it's nece
 
 Course slides and provided questions / exercises / files  are not included.
 
-During this course, I have also worked one a robotics project (robust indoor-outdoor localization), if you're interested, take a look at it in [here](https://github.com/fatimazouhour/localization-project-PoliTO).
+During this course, I have also worked on a robotics project (robust indoor-outdoor localization), if you're interested, take a look at it in [here](https://github.com/fatimazouhour/localization-project-PoliTO).
