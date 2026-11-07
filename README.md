@@ -22,9 +22,9 @@ path planning, and ROS with MATLAB.
 - ROS labs: Ubuntu 20.04 VM with ROS Noetic, turtlesim, TurtleBot3 Gazebo packages
 
 ## Notes & Disclaimers
-The code here is my own work on the robotics labs / technical exercises, mistakes are possible so dont follow blindly, so if you find any , you could contact me to discuss further. For any other inquiry, please dont hestitate to contact me. 
+The code here is my own work on the robotics labs / technical exercises, mistakes are possible (so dont follow blindly),in case you find any, it possible to contact me to discuss further. For any other inquiry, please dont hestitate to email me. 
 
-Soem folders have a readme explaining them, for others , I dont thinks it's necessarily needed.
+Some folders have a readme explaining them, for others , I dont thinks it's necessarily needed.
 
 Course slides and provided questions / exercises / files  are not included.
 
