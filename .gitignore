@@ -1,0 +1,13 @@
+
+*.pdf
+*.asv
+*.slxc
+*.r20*
+
+slprj/
+
+E4_Mobile_Robots/
+RVC3-MATLAB-main/
+
+ikIRB1600.m
+parkingLotCostVal.mat
